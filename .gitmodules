@@ -1,0 +1,3 @@
+[submodule "mysqloo"]
+	path = mysqloo
+	url = https://github.com/nelson9503/mysqloo.git
